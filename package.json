@@ -1,6 +1,6 @@
 {
   "name": "@ludlovian/clone",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple deep clone",
   "main": "src/index.mjs",
   "exports": {
